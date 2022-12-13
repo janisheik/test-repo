@@ -16,7 +16,7 @@ spec:
         app: httpd
     spec:
       containers:
-      - name: httpd-container
+      - name: httpd
         image: public.ecr.aws/c9e3o3h3/httpd:2.4
         ports:
         - containerPort: 80
