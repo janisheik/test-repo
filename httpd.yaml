@@ -28,7 +28,7 @@ apiVersion: v1
 metadata:
   name: httpd-service
 spec:
-  type: nodeport
+  type: NodePort
   selector:
     app: httpd
   ports:
