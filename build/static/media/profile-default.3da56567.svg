@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <circle id="Oval" fill="#DFE5E7" cx="16" cy="16" r="16"></circle>
+            <g id="Group-2" transform="translate(9.230769, 8.615385)" fill="#FFFFFF">
+                <ellipse id="Oval" stroke="#FFFFFF" stroke-width="1.35198" cx="6.51627409" cy="4.05538462" rx="3.37874563" ry="3.37939462"></ellipse>
+                <path d="M6.76923077,14.7692308 C10.464189,14.7692308 13.4595446,14.7692308 13.4595446,14.7692308 C13.4595446,14.7692308 14.7636495,8.61538462 6.76923077,8.61538462 C-1.22518792,8.61538462 0.0789169852,14.7692308 0.0789169852,14.7692308 C0.0789169852,14.7692308 3.07427249,14.7692308 6.76923077,14.7692308 Z" id="Oval"></path>
+            </g>
+        </g>
+    </g>
+</svg>

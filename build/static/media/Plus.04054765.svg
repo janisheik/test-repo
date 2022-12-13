@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Plus</title>
+    <g id="1.-Public-User-Pages-VD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SEEDFUND-Help-expanded" transform="translate(-1076.000000, -789.000000)">
+            <g id="Group-9" transform="translate(169.000000, 436.000000)">
+                <g id="Group-29" transform="translate(321.000000, 351.000000)">
+                    <g id="Plus" transform="translate(586.000000, 2.000000)">
+                        <circle id="Oval" stroke="#333333" stroke-width="1.472" cx="13.084424" cy="13.084424" r="12.348424"></circle>
+                        <rect id="Rectangle" fill="#333333" x="12.512" y="6.624" width="1.472" height="12.512" rx="0.736"></rect>
+                        <rect id="Rectangle" fill="#333333" transform="translate(13.248000, 12.880000) rotate(90.000000) translate(-13.248000, -12.880000) " x="12.512" y="6.624" width="1.472" height="12.512" rx="0.736"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

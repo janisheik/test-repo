@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="25px" viewBox="0 0 24 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>calendar (3)</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/dropdown" transform="translate(-12.000000, -11.000000)">
+            <g id="calendar-(3)" transform="translate(12.000000, 11.000000)">
+                <g id="Group-2" transform="translate(5.800000, 12.300000)" fill="#98A6CC">
+                    <g id="Group" transform="translate(-0.000000, -0.000000)">
+                        <circle id="Oval" cx="6.2" cy="1.2" r="1.2"></circle>
+                        <circle id="Oval" cx="1.2" cy="1.2" r="1.2"></circle>
+                        <circle id="Oval" cx="11" cy="1.2" r="1.2"></circle>
+                    </g>
+                </g>
+                <g transform="translate(6.000000, 8.300000)" fill="#98A6CC" id="Group-2">
+                    <g transform="translate(0.000000, -0.000000)">
+                        <g id="Group" transform="translate(0.000000, -0.000000)">
+                            <circle id="Oval" cx="1.2" cy="1.2" r="1.2"></circle>
+                            <circle id="Oval" cx="6" cy="1.2" r="1.2"></circle>
+                            <circle id="Oval" cx="10.8" cy="1.2" r="1.2"></circle>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-2" transform="translate(5.800000, 16.300000)" fill="#98A6CC">
+                    <g id="Group" transform="translate(-0.000000, -0.000000)">
+                        <circle id="Oval" cx="6.2" cy="1.2" r="1.2"></circle>
+                        <circle id="Oval" cx="1.2" cy="1.2" r="1.2"></circle>
+                        <circle id="Oval" cx="11" cy="1.2" r="1.2"></circle>
+                    </g>
+                </g>
+                <rect id="Rectangle" stroke="#98A6CC" stroke-width="2" x="1" y="3" width="22" height="21" rx="3"></rect>
+                <rect id="Rectangle" stroke="#AAB6D6" fill="#98A6CC" x="5.5" y="0.5" width="1" height="5" rx="0.5"></rect>
+                <rect id="Rectangle" stroke="#AAB6D6" fill="#98A6CC" x="18.5" y="0.5" width="1" height="5" rx="0.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
