@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: httpd
+  name: httpd-deployment
   labels:
     app: httpd
 spec:
@@ -16,11 +16,10 @@ spec:
         app: httpd
     spec:
       containers:
-      - name: httpd
+      - name: httpd-container
         image: public.ecr.aws/c9e3o3h3/httpd:2.4
         ports:
         - containerPort: 80
-       
        
 ---
 kind: Service
@@ -40,7 +39,7 @@ spec:
 apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
-  namespace: 
+  namespace:
   name: ingress-httpd
   annotations:
     alb.ingress.kubernetes.io/scheme: internet-facing
