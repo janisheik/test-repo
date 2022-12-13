@@ -19,7 +19,7 @@ spec:
       - name: httpd-container
         image: public.ecr.aws/c9e3o3h3/httpd:2.4
         ports:
-        - containerPort: 8080
+        - containerPort: 80
        
        
 ---
@@ -35,7 +35,7 @@ spec:
   - name: http
     protocol: TCP
     port: 80
-    targetPort: 8080
+    targetPort: 80
 ---
 apiVersion: networking.k8s.io/v1
 kind: Ingress
