@@ -5,7 +5,7 @@ pipeline {
        stage ('git clone') {
           steps {
       echo "code is building"
-       git 'https://github.com/janisheik/new-repo.git'
+       git 'https://github.com/janisheik/test-repo.git'
           }
       }
         stage('build docker image') {
